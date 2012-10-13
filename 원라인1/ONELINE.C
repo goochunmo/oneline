@@ -39,7 +39,7 @@ void cursor_on();
 char_tag *double_linked_list(unsigned char);
 void text_out_test(char_tag *);
 //==================================================
-//
+
 int main()
 {
 	unsigned char Key_temp;
